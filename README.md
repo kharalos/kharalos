@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kharalos
+- 👋 Hi, I’m Ömer Ünal
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity, C#, TypeScript, JavaScript, Three.JS
 - 💞️ I’m looking to collaborate on Game Projects
