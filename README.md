@@ -2,7 +2,7 @@
 
 My name is Ömer. I am a Casual/Hyper Casual Game Developer. 
 
-I mainly use [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="drawing" width="50"/>](https://play.unity.com)Unity, in addition to this I have practical knowledge of [<img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="drawing" width="50"/>](https://threejs.org)Three.js. 
+I mainly use [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="drawing" width="50"/>](https://play.unity.com/u/Kharalos)Unity, in addition to this I have practical knowledge of [<img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="drawing" width="50"/>](http://pkhood.com)Three.js. 
 
 Currently mass-producing Hyper Casual games solely. My fundamental motivation is to kickstart a company specializing in games. Or gather enough experience to work as a senior developer for an ambitious company.
 
