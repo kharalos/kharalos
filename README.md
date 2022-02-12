@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Ömer Ünal
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity, C#, TypeScript, JavaScript, Three.JS
-- 💞️ I’m looking to collaborate on Game Projects
-- 📫 How to reach me https://www.linkedin.com/in/ömer-ünal-4972341b1/
+Hello there!
+My name is Ömer. I am a Casual/Hyper Casual Game Developer. I mainly use Unity, in addition to this I have practical knowledge of Three.js. I am currently mass-producing Hyper Casual games solely. My fundamental motivation is to establish my own company specializing in games. Or gather enough experience so that I can work as a senior developer at an ambitious company.
 
-<!---
-kharalos/kharalos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me at https://www.linkedin.com/in/ömer-ünal-4972341b1/.
+
+Have a pleasant day.
