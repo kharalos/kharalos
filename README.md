@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there! [<img src="https://images-na.ssl-images-amazon.com/images/I/71u7NwlxyHL.png" alt="drawing" width="100"/>](https://knowyourmeme.com/memes/hello-there)
 
 My name is Ömer. I am a Casual/Hyper Casual Game Developer. 
 
